@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension id="ace_editor" status="experimental" xmlns="http://getsymphony.com/schemas/extension/1.0">
+    <name>Ace Editor</name>
+    <description lang="en">Replaces the text areas used to edit XSLT with Ace Editor.</description>
+    <repo type="github">https://github.com/xadet/ace_editor</repo>
+    <types>
+        <type>Interface</type>
+    </types>
+    <authors>
+        <author>
+            <name github="xadet" symphony="xadet">Jack Wakefield</name>
+            <website>http://www.soccerhubb.com/</website>
+        </author>
+    </authors>
+    <releases>
+        <release version="0.9.0" date="2013-10-09" min="2.3.3" />
+    </releases>
+    <media>
+        <item type="image" url="http://i.imgur.com/79TY6a7.jpg">Preview.</item>
+    </media>
+</extension>
